@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python and Machine Learning
+- 🌱 I’m currently learning SQL and Power BI
 - 💞️ I’m looking to collaborate for Data Analysis and dashboard Designing.
 - 📫 How to reach me @ https://www.linkedin.com/in/himanshu-banwal-44b308123/
 
